@@ -1,1 +1,2 @@
+add_subdirectory(password_policy)
 add_subdirectory(report_repair)
